@@ -1,0 +1,10 @@
+node_modules/
+playwright-data/
+artifacts/
+.ym2zvuk-dev/
+.ym2zvuk-init/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
